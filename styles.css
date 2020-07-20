@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "CascadiaCode";
+    src: url("assets/fonts/otf/CascadiaMonoPL-SemiLight.otf");
+    }
+
+body{
+    font-family: 'CascadiaCode';
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+body img {
+    border-radius: 50%;
+}
